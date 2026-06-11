@@ -86,7 +86,7 @@ ChatApp/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ChatApp.git
+   git clone https://github.com/ofentseoliphant11/ChatApp.git
    ```
 2. Open the project in NetBeans
 3. Right-click the project → **Run**
